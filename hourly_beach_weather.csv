@@ -1,0 +1,145 @@
+Name,Time (Hour),Temperature,Cloudiness,Wind,Chance of Rain
+Cedar Key,5 am,52,Mostly Cloudy,N 8 mph,1%
+Cedar Key,6 am,51,Partly Cloudy,N 9 mph,1%
+Cedar Key,7 am,50,Partly Cloudy,N 9 mph,1%
+Cedar Key,8 am,48,Partly Cloudy,N 8 mph,1%
+Cedar Key,9 am,49,Partly Cloudy,N 9 mph,1%
+Cedar Key,10 am,52,Partly Cloudy,NNE 10 mph,0%
+Cedar Key,11 am,56,Partly Cloudy,N 10 mph,0%
+Cedar Key,12 pm,60,Partly Cloudy,N 9 mph,0%
+Cedar Key,1 pm,63,Mostly Sunny,N 8 mph,0%
+Cedar Key,2 pm,64,Partly Cloudy,NNW 8 mph,0%
+Cedar Key,3 pm,66,Mostly Sunny,NNW 9 mph,0%
+Cedar Key,4 pm,67,Partly Cloudy,NNW 9 mph,0%
+Cedar Key,5 pm,67,Partly Cloudy,NNW 9 mph,0%
+Cedar Key,6 pm,67,Partly Cloudy,N 9 mph,0%
+Cedar Key,7 pm,64,Partly Cloudy,N 9 mph,0%
+Cedar Key,8 pm,60,Partly Cloudy,N 7 mph,0%
+Cedar Key,9 pm,57,Partly Cloudy,N 7 mph,0%
+Cedar Key,10 pm,54,Partly Cloudy,N 7 mph,0%
+Crescent Beach,5 am,53,Partly Cloudy,NNW 12 mph,1%
+Crescent Beach,6 am,52,Partly Cloudy,NNW 12 mph,1%
+Crescent Beach,7 am,51,Partly Cloudy,NNW 11 mph,1%
+Crescent Beach,8 am,50,Partly Cloudy,NNW 11 mph,1%
+Crescent Beach,9 am,51,Partly Cloudy,NNW 12 mph,1%
+Crescent Beach,10 am,54,Partly Cloudy,NNW 13 mph,1%
+Crescent Beach,11 am,56,Partly Cloudy,NNW 14 mph,0%
+Crescent Beach,12 pm,59,Mostly Sunny,NNW 13 mph,0%
+Crescent Beach,1 pm,60,Mostly Sunny,N 13 mph,0%
+Crescent Beach,2 pm,61,Sunny,N 14 mph,0%
+Crescent Beach,3 pm,61,Sunny,N 14 mph,0%
+Crescent Beach,4 pm,61,Sunny,N 13 mph,0%
+Crescent Beach,5 pm,62,Sunny,N 12 mph,0%
+Crescent Beach,6 pm,61,Mostly Sunny,N 10 mph,0%
+Crescent Beach,7 pm,60,Partly Cloudy,N 9 mph,0%
+Crescent Beach,8 pm,58,Partly Cloudy,N 7 mph,0%
+Crescent Beach,9 pm,56,Partly Cloudy,N 8 mph,0%
+Crescent Beach,10 pm,55,Partly Cloudy,NNW 8 mph,0%
+Fernandina Beach,5 am,50,Mostly Clear,NNW 12 mph,1%
+Fernandina Beach,6 am,49,Mostly Clear,NNW 12 mph,1%
+Fernandina Beach,7 am,48,Mostly Clear,NNW 11 mph,1%
+Fernandina Beach,8 am,47,Mostly Sunny,NNW 12 mph,1%
+Fernandina Beach,9 am,49,Mostly Sunny,NNW 12 mph,1%
+Fernandina Beach,10 am,51,Sunny,NNW 13 mph,0%
+Fernandina Beach,11 am,54,Sunny,NNW 13 mph,0%
+Fernandina Beach,12 pm,57,Sunny,NNW 12 mph,0%
+Fernandina Beach,1 pm,59,Sunny,NNW 10 mph,0%
+Fernandina Beach,2 pm,61,Sunny,NNW 10 mph,0%
+Fernandina Beach,3 pm,62,Sunny,NNW 10 mph,0%
+Fernandina Beach,4 pm,63,Sunny,NNW 11 mph,0%
+Fernandina Beach,5 pm,63,Sunny,NW 12 mph,0%
+Fernandina Beach,6 pm,63,Sunny,NW 11 mph,0%
+Fernandina Beach,7 pm,60,Sunny,NW 10 mph,0%
+Fernandina Beach,8 pm,56,Mostly Clear,NW 9 mph,0%
+Fernandina Beach,9 pm,54,Partly Cloudy,NNW 9 mph,0%
+Fernandina Beach,10 pm,53,Partly Cloudy,NNW 9 mph,0%
+Flagler Beach,5 am,54,Partly Cloudy,NNW 12 mph,1%
+Flagler Beach,6 am,53,Partly Cloudy,NNW 11 mph,2%
+Flagler Beach,7 am,52,Partly Cloudy,NNW 11 mph,1%
+Flagler Beach,8 am,51,Partly Cloudy,NNW 11 mph,2%
+Flagler Beach,9 am,52,Partly Cloudy,NNW 11 mph,1%
+Flagler Beach,10 am,56,Partly Cloudy,NNW 13 mph,1%
+Flagler Beach,11 am,58,Partly Cloudy,NNW 14 mph,1%
+Flagler Beach,12 pm,60,Partly Cloudy,NNW 13 mph,0%
+Flagler Beach,1 pm,61,Partly Cloudy,N 14 mph,0%
+Flagler Beach,2 pm,62,Mostly Sunny,N 14 mph,0%
+Flagler Beach,3 pm,62,Sunny,N 14 mph,0%
+Flagler Beach,4 pm,62,Mostly Sunny,N 14 mph,0%
+Flagler Beach,5 pm,62,Mostly Sunny,N 14 mph,0%
+Flagler Beach,6 pm,62,Partly Cloudy,N 12 mph,0%
+Flagler Beach,7 pm,60,Partly Cloudy,N 10 mph,0%
+Flagler Beach,8 pm,58,Partly Cloudy,N 7 mph,0%
+Flagler Beach,9 pm,56,Partly Cloudy,N 7 mph,0%
+Flagler Beach,10 pm,56,Partly Cloudy,N 7 mph,0%
+Jacksonville Beach,5 am,52,Partly Cloudy,NNW 12 mph,1%
+Jacksonville Beach,6 am,51,Partly Cloudy,NNW 12 mph,1%
+Jacksonville Beach,7 am,50,Partly Cloudy,NNW 12 mph,1%
+Jacksonville Beach,8 am,49,Partly Cloudy,NNW 12 mph,1%
+Jacksonville Beach,9 am,51,Partly Cloudy,NNW 13 mph,1%
+Jacksonville Beach,10 am,53,Partly Cloudy,NNW 13 mph,1%
+Jacksonville Beach,11 am,56,Mostly Sunny,NNW 13 mph,0%
+Jacksonville Beach,12 pm,58,Sunny,NNW 12 mph,0%
+Jacksonville Beach,1 pm,60,Sunny,N 11 mph,0%
+Jacksonville Beach,2 pm,61,Sunny,N 11 mph,0%
+Jacksonville Beach,3 pm,62,Sunny,N 11 mph,0%
+Jacksonville Beach,4 pm,63,Sunny,N 10 mph,0%
+Jacksonville Beach,5 pm,63,Sunny,N 10 mph,0%
+Jacksonville Beach,6 pm,63,Sunny,N 10 mph,0%
+Jacksonville Beach,7 pm,61,Mostly Sunny,NNW 9 mph,0%
+Jacksonville Beach,8 pm,58,Mostly Clear,NNW 9 mph,0%
+Jacksonville Beach,9 pm,56,Partly Cloudy,NNW 10 mph,0%
+Jacksonville Beach,10 pm,55,Partly Cloudy,NNW 10 mph,0%
+Neptune Beach,5 am,52,Partly Cloudy,NNW 12 mph,1%
+Neptune Beach,6 am,51,Partly Cloudy,NNW 12 mph,1%
+Neptune Beach,7 am,50,Partly Cloudy,NNW 12 mph,1%
+Neptune Beach,8 am,49,Partly Cloudy,NNW 12 mph,1%
+Neptune Beach,9 am,51,Partly Cloudy,NNW 13 mph,1%
+Neptune Beach,10 am,53,Partly Cloudy,NNW 13 mph,1%
+Neptune Beach,11 am,56,Mostly Sunny,NNW 13 mph,0%
+Neptune Beach,12 pm,58,Sunny,NNW 12 mph,0%
+Neptune Beach,1 pm,60,Sunny,N 11 mph,0%
+Neptune Beach,2 pm,61,Sunny,N 11 mph,0%
+Neptune Beach,3 pm,62,Sunny,N 11 mph,0%
+Neptune Beach,4 pm,63,Sunny,N 10 mph,0%
+Neptune Beach,5 pm,63,Sunny,N 10 mph,0%
+Neptune Beach,6 pm,63,Sunny,N 10 mph,0%
+Neptune Beach,7 pm,61,Mostly Sunny,NNW 9 mph,0%
+Neptune Beach,8 pm,58,Mostly Clear,NNW 9 mph,0%
+Neptune Beach,9 pm,56,Partly Cloudy,NNW 10 mph,0%
+Neptune Beach,10 pm,55,Partly Cloudy,NNW 10 mph,0%
+St. Augustine Beach,5 am,52,Partly Cloudy,NNW 12 mph,1%
+St. Augustine Beach,6 am,51,Partly Cloudy,NNW 11 mph,1%
+St. Augustine Beach,7 am,50,Partly Cloudy,NNW 11 mph,1%
+St. Augustine Beach,8 am,49,Partly Cloudy,NNW 11 mph,1%
+St. Augustine Beach,9 am,50,Partly Cloudy,NNW 12 mph,1%
+St. Augustine Beach,10 am,53,Partly Cloudy,NNW 13 mph,1%
+St. Augustine Beach,11 am,56,Partly Cloudy,NNW 14 mph,0%
+St. Augustine Beach,12 pm,58,Mostly Sunny,NNW 13 mph,0%
+St. Augustine Beach,1 pm,60,Sunny,N 13 mph,0%
+St. Augustine Beach,2 pm,60,Sunny,N 13 mph,0%
+St. Augustine Beach,3 pm,61,Sunny,N 13 mph,0%
+St. Augustine Beach,4 pm,61,Sunny,N 13 mph,0%
+St. Augustine Beach,5 pm,62,Sunny,N 12 mph,0%
+St. Augustine Beach,6 pm,61,Mostly Sunny,N 9 mph,0%
+St. Augustine Beach,7 pm,60,Partly Cloudy,N 9 mph,0%
+St. Augustine Beach,8 pm,57,Partly Cloudy,N 6 mph,0%
+St. Augustine Beach,9 pm,56,Partly Cloudy,N 8 mph,0%
+St. Augustine Beach,10 pm,54,Partly Cloudy,NNW 8 mph,1%
+St. Pete Beach,5 am,62,Partly Cloudy,NNE 10 mph,1%
+St. Pete Beach,6 am,61,Mostly Cloudy,NNE 10 mph,1%
+St. Pete Beach,7 am,59,Partly Cloudy,NNE 10 mph,1%
+St. Pete Beach,8 am,58,Partly Cloudy,NNE 9 mph,1%
+St. Pete Beach,9 am,58,Partly Cloudy,NNE 10 mph,1%
+St. Pete Beach,10 am,60,Partly Cloudy,NNE 11 mph,1%
+St. Pete Beach,11 am,63,Partly Cloudy,NNE 11 mph,1%
+St. Pete Beach,12 pm,65,Partly Cloudy,N 10 mph,0%
+St. Pete Beach,1 pm,66,Partly Cloudy,N 10 mph,0%
+St. Pete Beach,2 pm,68,Partly Cloudy,N 11 mph,0%
+St. Pete Beach,3 pm,68,Partly Cloudy,NNW 12 mph,0%
+St. Pete Beach,4 pm,69,Partly Cloudy,NNW 13 mph,0%
+St. Pete Beach,5 pm,68,Mostly Cloudy,NNW 13 mph,0%
+St. Pete Beach,6 pm,68,Mostly Cloudy,NNW 13 mph,0%
+St. Pete Beach,7 pm,66,Mostly Cloudy,N 11 mph,0%
+St. Pete Beach,8 pm,64,Mostly Cloudy,N 9 mph,0%
+St. Pete Beach,9 pm,63,Mostly Cloudy,N 9 mph,0%
+St. Pete Beach,10 pm,63,Mostly Cloudy,N 8 mph,0%
