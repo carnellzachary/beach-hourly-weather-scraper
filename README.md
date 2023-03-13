@@ -66,11 +66,11 @@ hourly_weather_data.append({'name':beach['name'], 'hour':hour, 'temp':temp, 'clo
 time.sleep(3)
 ```
 
-- With the scraping function ready-to-go, I just had to then create a function to write the collected data to a CSV file, which I named *write_csv*.
+- With the scraping function ready-to-go, I just had to then create a function to write the collected data to a CSV file. I named the function *write_csv*.
 - All the hourly weather data was already cleanly organized in a list, so I just had to loop through that list and write each object (hour) of weather data to its own row in the CSV file.
 
 ```python
 for weather_hour in data_list:
     writer.writerow([weather_hour['name'], weather_hour['hour'], weather_hour['temp'], weather_hour['cloudiness'], weather_hour['wind'], weather_hour['rain_chance']])
 ```
-This scraping project was written and created by Zachary Carnell as part of an assignment for the University of Florida. 
+This scraping project was written and created by Zachary Carnell as part of an assignment for the University of Florida.
